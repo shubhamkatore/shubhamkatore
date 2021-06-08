@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Katore</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkatore&label=Profile%20views&color=0e75b6&style=plastic" alt="shubhamkatore" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shubhamkatore" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamkatore?logo=twitter&style=for-the-badge" alt="shubhamkatore" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [http://www.shubhamkatore.com](http://www.shubhamkatore.com)
 
